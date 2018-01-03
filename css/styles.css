@@ -1,0 +1,13 @@
+.intro {
+  font-style: italic;
+  text-align: center;
+  font-size: 16px;
+}
+
+img.intro {
+  height: 300px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
