@@ -11,3 +11,11 @@ img.intro {
   margin-left: auto;
   margin-right: auto;
 }
+
+.textHighlight {
+  background-color: yellow;
+}
+
+.classBorder {
+  border-style: solid;
+}
